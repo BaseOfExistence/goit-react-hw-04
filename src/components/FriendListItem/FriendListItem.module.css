@@ -1,0 +1,23 @@
+.item{
+    border: solid black 3px;
+    border-radius: 10px;
+    padding: 20px;
+}
+.name{
+    display: block;
+    text-align: center;
+    font-size: 36px;
+    margin-top: 10px;
+}
+.online{
+    display: block;
+    text-align: center;
+    font-size: 24px;
+    color: green;
+}
+.offline{
+    display: block;
+    text-align: center;
+    font-size: 24px;
+    color: red;
+}

@@ -1,0 +1,29 @@
+.title{
+    width: 240px;
+    height: 40px;
+    border: solid black 2px;
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+    background-color: #252625;
+}
+
+.tableItem:nth-child(odd) {
+    background-color: white;
+}
+
+.tableItem:nth-child(even) {
+    background-color: lightgray;
+}
+
+.item{
+    width: 240px;
+    height: 40px;
+    border: solid black 2px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.container{
+    margin: 0 auto 20px auto;
+}
