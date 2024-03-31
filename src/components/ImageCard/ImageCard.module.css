@@ -1,0 +1,12 @@
+.photo{
+    width: 400px;
+    height: 276px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+.photo:hover{
+    scale: 1.05;
+    transition: 200ms;
+}
